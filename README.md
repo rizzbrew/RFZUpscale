@@ -10,7 +10,7 @@
 
 ## 📂 Fitur
 
-- Upscale gambar 2x, 4x, dan 8x otomatis
+- Upscale gambar 2x, 4x, dan 8x
 - Mendukung file gambar dan arsip `.tar`
 - Simpan hasil ke Google Drive atau download langsung
 - Kompatibel dengan banyak format gambar (.jpg, .png, dll)
